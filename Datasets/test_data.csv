@@ -1,0 +1,20 @@
+Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+Abbotsford,68 Studley St,2,h,,SS,Jellis,3/09/2016,2.5,3067,2,1,1,126,,,Yarra City Council,-37.8014,144.9958,Northern Metropolitan,4019
+Williamstown,24/18 Station Rd,2,u,475000,SP,Greg,24/02/2018,6.8,3016,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,6380
+Williamstown,3/2 Thompson St,2,u,520000,VB,Raine,24/02/2018,6.8,3016,,,,,,,Hobsons Bay City Council,,,Western Metropolitan,6380
+Williamstown,5 Thompson St,2,h,940000,VB,Williams,24/02/2018,6.8,3016,2,2,1,122,,1999,Hobsons Bay City Council,-37.86396,144.90541,Western Metropolitan,6380
+Williamstown,34 Twyford St,3,h,1400000,SP,Sweeney,24/02/2018,6.8,3016,3,2,,325,158,1995,Hobsons Bay City Council,-37.86871,144.90124,Western Metropolitan,6380
+Williamstown North,32 Edina St,3,h,830000,S,hockingstuart,24/02/2018,6.8,3016,3,1,2,345,,1949,Hobsons Bay City Council,-37.85545,144.88118,Western Metropolitan,802
+Windsor,4/16 Lewisham Rd,1,u,440000,SP,Biggin,24/02/2018,4.6,3181,,,,,,,Port Phillip City Council,,,Southern Metropolitan,4380
+Windsor,13 Mary St,4,h,,W,Jellis,24/02/2018,4.6,3181,4,3,2,279,237,2009,Port Phillip City Council,-37.85418,144.99697,Southern Metropolitan,4380
+Wollert,10 Alma Rd,4,h,630000,SP,hockingstuart,24/02/2018,25.5,3750,4,2,2,388,,,Whittlesea City Council,-37.60981,145.04135,Northern Metropolitan,2940
+Wollert,27 Birchmore Rd,3,h,500000,PI,Ray,24/02/2018,25.5,3750,3,2,2,383,118,2016,Whittlesea City Council,-37.6194,145.03951,Northern Metropolitan,2940
+Wollert,16 Gunther Wy,4,h,621000,S,hockingstuart,24/02/2018,25.5,3750,4,2,2,375,,,Whittlesea City Council,-37.61331,145.03412,Northern Metropolitan,2940
+Wollert,35 Kingscote Wy,3,h,570000,SP,RW,24/02/2018,25.5,3750,3,2,2,404,158,2012,Whittlesea City Council,-37.61031,145.03393,Northern Metropolitan,2940
+Wollert,15 Rockgarden Wy,3,h,,SP,LJ,24/02/2018,25.5,3750,3,2,2,268,135,2016,Whittlesea City Council,-37.61094,145.04281,Northern Metropolitan,2940
+Yarraville,78 Bayview Rd,3,h,1101000,S,Jas,24/02/2018,6.3,3013,3,1,,288,,,Maribyrnong City Council,-37.81095,144.88516,Western Metropolitan,6543
+Yarraville,13 Burns St,4,h,1480000,PI,Jas,24/02/2018,6.3,3013,4,1,3,593,,,Maribyrnong City Council,-37.81053,144.88467,Western Metropolitan,6543
+Yarraville,29A Murray St,2,h,888000,SP,Sweeney,24/02/2018,6.3,3013,2,2,1,98,104,2018,Maribyrnong City Council,-37.81551,144.88826,Western Metropolitan,6543
+Yarraville,147A Severn St,2,t,705000,S,Jas,24/02/2018,6.3,3013,2,1,2,220,120,2000,Maribyrnong City Council,-37.82286,144.87856,Western Metropolitan,6543
+Yarraville,12/37 Stephen St,3,h,1140000,SP,hockingstuart,24/02/2018,6.3,3013,,,,,,,Maribyrnong City Council,,,Western Metropolitan,6543
+Yarraville,3 Tarrengower St,2,h,1020000,PI,RW,24/02/2018,6.3,3013,2,1,0,250,103,1930,Maribyrnong City Council,-37.8181,144.89351,Western Metropolitan,6543
